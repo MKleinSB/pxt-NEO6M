@@ -1,5 +1,6 @@
 
-> Diese Seite bei [https://mkleinsb.github.io/pxt-neo6m/](https://mkleinsb.github.io/pxt-neo6m/) öffnen
+> Originalversion von **Raik Andritschke** https://github.com/CalliTGS3/pxt-calliope-NEO-6M
+
 
 ## Als Erweiterung verwenden
 
