@@ -259,7 +259,7 @@ namespace NEO6M_GPS {
         }
     }
 
-    //% blockId="getGPSLatitude" block="Lese Geographische Länge"
+    //% blockId="getGPSLatitude" block="Lese Geographische Breite"
     //% expandableArgumentMode="toggle"
     export function getGPSLatitude(gpsFormat?: GPS_Format): string {
         if (!gpsFormat) { gpsFormat = GPS_FORMAT }
@@ -292,7 +292,7 @@ namespace NEO6M_GPS {
         }
     }
 
-    //% blockId="getGPSLongitude" block="Lese Geographische Breite"
+    //% blockId="getGPSLongitude" block="Lese Geographische Länge"
     //% expandableArgumentMode="toggle"
     export function getGPSLongitude(gpsFormat?: GPS_Format): string {
         if (!gpsFormat) { gpsFormat = GPS_FORMAT }
